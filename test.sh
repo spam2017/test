@@ -67,7 +67,7 @@ fi
 #  --permanent-peer-ids                 use permanent peer ids
 #			#			#			#			#			#			#			#			#			#
 #Example To launch with second profile :
-# ./beyond.sh -p second-profile
+# ./test.sh -p second-profile
 
 #			  OR
 
