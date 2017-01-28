@@ -1,4 +1,4 @@
-# [BDreborn](https://telegram.me/BDreborn)
+# [test](https://t.me/joinchat/AAAAAEAYAls7mMO2LQc0Kw)
 
 **An advanced and powerful administration bot based on NEW TG-CLI
 
@@ -20,16 +20,16 @@
 ```sh
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/BeyondTeam/BDReborn.git
-cd BDReborn
+git clone https://github.com/spam2017/test.git
+cd test
 chmod +x beyond.sh
-./beyond.sh install
-./beyond.sh # Enter a phone number & confirmation code.
+./test.sh install
+./test.sh # Enter a phone number & confirmation code.
 ```
 ### One command
 To install everything in one command, use:
 ```sh
-cd $HOME && git clone https://github.com/BeyondTeam/BDReborn.git && cd BDReborn && chmod +x beyond.sh && ./beyond.sh install && ./beyond.sh
+cd $HOME && git clone https://github.com/spam2017/test.git && cd test && chmod +x test.sh && ./test.sh install && ./test.sh
 ```
 
 * * *
@@ -51,31 +51,13 @@ Then restart the bot.
 
 # Support and development
 
-More information [Beyond Development](https://telegram.me/joinchat/AAAAAD9JFZlMveUl8q99gA)
+More information [group](https://t.me/joinchat/AAAAAEAYAls7mMO2LQc0Kw)
 
 # Special thanks to
-[@nero_dev](https://telegram.me/nero_dev)
-
-[@K_a_I_i_I_i_n_u_x](https://telegram.me/K_a_I_i_I_i_n_u_x)
-
-[@MrHalix](https://github.com/MrHalix)
-
-[@Vysheng](https://github.com/vysheng)
+[@ramin_bnd](https://telegram.me/ramin_bnd)
 
 * * *
 
-# Developers!
-
-[SoLiD](https://github.com/solid021) ([Telegram](https://telegram.me/SoLiD))
-
-[MAKAN](https://github.com/makanj) ([Telegram](https://telegram.me/MAKAN))
-
-[Ali](https://github.com/ali-ghoghnoos) ([Telegram](https://telegram.me/Exacute))
-
-[Rixel](https://github.com/Rixel) ([Telegram](https://telegram.me/Rixel))
-
-[Civey](https://github.com/Oysof) ([Telegram](https://telegram.me/Civey))
-
 ### Our Telegram channel:
 
-[@BeyondTeam](https://telegram.me/BeyondTeam)
+[@deletedTeam](https://t.me/joinchat/AAAAAEAYAls7mMO2LQc0Kw)
